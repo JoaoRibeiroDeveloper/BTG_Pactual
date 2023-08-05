@@ -1,4 +1,4 @@
-## Desafio Técnico - Estágio PTG-Pactual
+## Desafio Técnico - Estágio BTG-Pactual
 
 Bem-Vindo ao meu desafio, feito com muito carrinho.
 
@@ -20,7 +20,7 @@ Baixando as Dependências
 ```shell
 npm install
 ```
-Rodar as Migrations
+Rodar as Migrations - Lembre do DB está criado
 ```shell
 npm run typeorm -- -d /src/shared/infra/typeorm/index.ts migration:run
 ```
