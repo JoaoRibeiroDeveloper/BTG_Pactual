@@ -1,6 +1,6 @@
 ## Desafio Técnico - Estágio BTG-Pactual
 
-Bem-Vindo ao meu desafio, feito com muito carinho.
+Bem-Vindo ao meu desafio, foi feito com muita dedicação e foco, para entregar o melhor possível.
 
 Eu sou o João Victor e vou explicar como está o projeto, o mesmo foi feito com **Node.js**, **Express.js**, **Typescript**, **TypeORM** e **PostgresSQL**
 
